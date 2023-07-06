@@ -1,0 +1,22 @@
+{
+    "FirstName": "Danar",
+    "MiddleName": "Gumilang",
+    "LastName": "Putera",
+    "Hobbies": [
+        "Fishing",
+        "Running",
+        "Swimming"
+    ],
+    "Adresses": [
+        {
+            "Street": "Kapuk",
+            "Country": "Jaktim",
+            "PostalCode": "101"
+        },
+        {
+            "Street": "Harpmul",
+            "Country": "Jakpus",
+            "PostalCode": "100"
+        }
+    ]
+}
